@@ -14,4 +14,10 @@ To get started, check out the repository and inspect the code.
 
 #### views/js/main.js
 - reduce query times
+- eliminate unnecessary redundant code
 - reduce the amount of background items
+
+### How to run
+There are few methods to run this website.
+- Simply open index.html to see webpage
+- create a HTTP server on the root folder by using Python, apache or other similar web server and then open http://localhost:[your_port]
